@@ -1,6 +1,4 @@
-### Hi there 👋🤠
 
-- 🌱 I’m currently learning Java 🍵
 
 <div align="center">
   <a href="https://github.com/GugsFranca">
