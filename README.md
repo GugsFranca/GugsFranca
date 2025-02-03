@@ -34,9 +34,9 @@
 
 <div align="center">
   
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=GugsFrancaR&show_icons=true&theme=blueberry&hide=stars,prs)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=GugsFranca&show_icons=true&theme=blueberry&hide=stars,prs)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GugsFrancaR&layout=compact&theme=blueberry)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GugsFranca&layout=compact&theme=blueberry)
 
 </div>
 
