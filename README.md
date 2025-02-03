@@ -34,10 +34,9 @@
 
 <div align="center">
   
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=GugsFranca&show_icons=true&theme=blueberry&hide=stars,prs)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GugsFranca&layout=compact&theme=blueberry)
-
+  <a href="https://github.com/GugsFranca">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GugsFranca&include_all_commits=true&theme=radical&hide=stars,issues"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugsFranca&layout=compact&theme=radical"/>
 </div>
 
 ---
