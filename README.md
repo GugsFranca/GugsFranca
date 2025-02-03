@@ -45,6 +45,6 @@
 
 ### 📬 Vamos Conversar?
 <p align="center"> <a href="https://www.linkedin.com/in/gustavo-fonseca-384a91206/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
-  <a href="mailto:gustavoffonsec4@gmail.com"> <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> </a> 
+  <a href="mailto:gustavoffonsec4@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> 
 </p>
 <p align="center"> <i>"Primeiro resolva o problema, depois escreva o código" - John Johnson</i> 🛠️ </p>
