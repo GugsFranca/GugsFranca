@@ -36,8 +36,8 @@
 <div align="center">
   
   <a href="https://github.com/GugsFranca">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GugsFranca&include_all_commits=true&theme=radical&hide=stars,issues"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugsFranca&layout=compact&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GugsFranca&include_all_commits=true&theme=radical&hide=stars,issues"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugsFranca&layout=compact&theme=radical"/>
   </a>
 </div>
 
