@@ -42,23 +42,6 @@
 
 ---
 
-### 🐳 Meu Dockerfile Favorito
-
-```dockerfile
-FROM eclipse-temurin:17-jdk-alpine as build
-WORKDIR /app
-COPY mvnw .
-COPY .mvn .mvn
-COPY pom.xml .
-RUN ./mvnw dependency:go-offline
-COPY src src
-RUN ./mvnw package -DskipTests
-
-FROM eclipse-temurin:17-jre-alpine
-COPY --from=build /app/target/*.jar app.jar
-EXPOSE 8080
-ENTRYPOINT ["java","-jar","/app.jar"]
-````
 ### 📬 Vamos Conversar?
 <p align="center"> <a href="https://www.linkedin.com/in/gustavo-fonseca-384a91206/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
   <a href="mailto:gustavoffonsec4@gmail.com"> <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> </a> 
