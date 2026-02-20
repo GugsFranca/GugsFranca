@@ -83,8 +83,10 @@ Gosto de código limpo, arquitetura que faz sentido e de entender o problema ant
 
 <div align="center">
 
-![Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GugsFranca&theme=tokyonight)
-![Most Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GugsFranca&theme=tokyonight)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GugsFranca&theme=discord_old_blurple)
+
+![Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GugsFranca&theme=discord_old_blurple)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GugsFranca&theme=discord_old_blurple)
 
 </div>
 
